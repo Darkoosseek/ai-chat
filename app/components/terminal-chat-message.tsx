@@ -197,8 +197,7 @@ export function TerminalChatMessage({ message }: TerminalChatMessageProps) {
           </div>
         </div>
       ) : (
-        <Card className="bg-gradient-to-br from-purple-900/20 via-blue-900/20 to-indigo-900/20 border-2 border-purple-500/30 mb-6 shadow-2xl shadow-purple-500/10 backdrop-blur-sm">
-          <CardContent className="p-6">
+<Card className="bg-transparent border-2 border-purple-500/30 mb-6 shadow-2xl shadow-purple-500/10">          <CardContent className="p-6">
             <div className="group relative">
               <div className="flex items-start space-x-4 mb-4">
                 <div className="flex-shrink-0 w-10 h-10 bg-gradient-to-br from-purple-500/30 to-blue-500/30 border-2 border-purple-500/50 rounded-lg flex items-center justify-center shadow-lg shadow-purple-500/20">
