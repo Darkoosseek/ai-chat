@@ -1,3 +1,6 @@
+
+https://ai-chat-iceq.vercel.app
+
 # 🚀 Ultimate AI Terminal - Local Setup Guide
 
 A powerful, free AI terminal with chat, vision, and image generation capabilities.
